@@ -1,8 +1,8 @@
 # .bashrc
 # Source global definitions
-if [ -f /etc/profile ]; then
-        source /etc/profile
-fi
+#if [ -f /etc/profile ]; then
+#        source /etc/profile
+#fi
 
 #1.颜色主题修改
     if [ "$TERM" = "xterm" ]
