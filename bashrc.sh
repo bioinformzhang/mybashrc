@@ -1,7 +1,7 @@
 # .bashrc
 # Source global definitions
-if [ -f /etc/bashrc ]; then
-        . /etc/bashrc
+if [ -f /etc/profile ]; then
+        source /etc/profile
 fi
 
 #1.颜色主题修改
